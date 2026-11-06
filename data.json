@@ -1,0 +1,437 @@
+{
+ "generated_at": "2026-11-06T15:59:02.474802+07:00",
+ "generated_at_label": "Nov 6, 2026 15:59 (Bangkok, UTC+7)",
+ "targets": {
+  "kcal": 1500.0,
+  "protein_g": 120.0,
+  "carbs_g": 161.0,
+  "fat_g": 42.0,
+  "protein_is_floor": true
+ },
+ "target_history": [
+  {
+   "effective_from": "2000-01-01",
+   "kcal": 1800.0,
+   "protein_g": 120.0,
+   "carbs_g": 195.0,
+   "fat_g": 60.0,
+   "notes": "original targets"
+  },
+  {
+   "effective_from": "2026-10-19",
+   "kcal": 1700.0,
+   "protein_g": 120.0,
+   "carbs_g": 199.0,
+   "fat_g": 47.0,
+   "notes": "week 2"
+  },
+  {
+   "effective_from": "2026-10-26",
+   "kcal": 1600.0,
+   "protein_g": 120.0,
+   "carbs_g": 180.0,
+   "fat_g": 44.0,
+   "notes": "step-down"
+  },
+  {
+   "effective_from": "2026-11-02",
+   "kcal": 1500.0,
+   "protein_g": 120.0,
+   "carbs_g": 161.0,
+   "fat_g": 42.0,
+   "notes": "step-down"
+  }
+ ],
+ "daily": [
+  {
+   "date": "2026-09-07",
+   "kcal": 1903,
+   "protein_g": 148.0,
+   "carbs_g": 181.3,
+   "fat_g": 59.5,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-08",
+   "kcal": 1604,
+   "protein_g": 140.0,
+   "carbs_g": 199.1,
+   "fat_g": 31.7,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-09",
+   "kcal": 2379,
+   "protein_g": 126.9,
+   "carbs_g": 210.0,
+   "fat_g": 103.1,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-10",
+   "kcal": 1990,
+   "protein_g": 99.0,
+   "carbs_g": 164.5,
+   "fat_g": 105.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-11",
+   "kcal": 2000,
+   "protein_g": 160.0,
+   "carbs_g": 160.0,
+   "fat_g": 80.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-13",
+   "kcal": 621,
+   "protein_g": 44.0,
+   "carbs_g": 62.0,
+   "fat_g": 21.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-14",
+   "kcal": 1380,
+   "protein_g": 137.0,
+   "carbs_g": 58.0,
+   "fat_g": 61.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-21",
+   "kcal": 1620,
+   "protein_g": 155.0,
+   "carbs_g": 66.0,
+   "fat_g": 80.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-22",
+   "kcal": 1320,
+   "protein_g": 119.0,
+   "carbs_g": 80.0,
+   "fat_g": 66.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-09-23",
+   "kcal": 2120,
+   "protein_g": 153.0,
+   "carbs_g": 119.0,
+   "fat_g": 116.0,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-13",
+   "kcal": 1466,
+   "protein_g": 104.0,
+   "carbs_g": 120.0,
+   "fat_g": 61.7,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-14",
+   "kcal": 1699,
+   "protein_g": 129.0,
+   "carbs_g": 149.5,
+   "fat_g": 62.8,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-15",
+   "kcal": 2362,
+   "protein_g": 255.3,
+   "carbs_g": 138.4,
+   "fat_g": 70.9,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-16",
+   "kcal": 1849,
+   "protein_g": 170.4,
+   "carbs_g": 196.3,
+   "fat_g": 39.1,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-17",
+   "kcal": 3668,
+   "protein_g": 165.5,
+   "carbs_g": 328.5,
+   "fat_g": 157.5,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-18",
+   "kcal": 1623,
+   "protein_g": 139.1,
+   "carbs_g": 140.1,
+   "fat_g": 55.9,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-19",
+   "kcal": 1652,
+   "protein_g": 162.5,
+   "carbs_g": 136.2,
+   "fat_g": 48.4,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-20",
+   "kcal": 1916,
+   "protein_g": 132.5,
+   "carbs_g": 193.0,
+   "fat_g": 69.2,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-21",
+   "kcal": 1587,
+   "protein_g": 146.2,
+   "carbs_g": 125.6,
+   "fat_g": 54.7,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-22",
+   "kcal": 1895,
+   "protein_g": 170.3,
+   "carbs_g": 179.9,
+   "fat_g": 57.4,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-23",
+   "kcal": 1634,
+   "protein_g": 154.1,
+   "carbs_g": 132.6,
+   "fat_g": 51.2,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-24",
+   "kcal": 2587,
+   "protein_g": 179.7,
+   "carbs_g": 208.7,
+   "fat_g": 114.5,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-25",
+   "kcal": 1766,
+   "protein_g": 140.6,
+   "carbs_g": 179.1,
+   "fat_g": 53.3,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-26",
+   "kcal": 1690,
+   "protein_g": 108.4,
+   "carbs_g": 166.1,
+   "fat_g": 67.2,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-27",
+   "kcal": 1529,
+   "protein_g": 114.8,
+   "carbs_g": 179.8,
+   "fat_g": 41.6,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-28",
+   "kcal": 2238,
+   "protein_g": 161.0,
+   "carbs_g": 204.1,
+   "fat_g": 87.5,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-29",
+   "kcal": 1955,
+   "protein_g": 140.1,
+   "carbs_g": 149.9,
+   "fat_g": 87.0,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-30",
+   "kcal": 1477,
+   "protein_g": 104.3,
+   "carbs_g": 136.4,
+   "fat_g": 56.2,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-10-31",
+   "kcal": 2886,
+   "protein_g": 164.4,
+   "carbs_g": 188.6,
+   "fat_g": 158.3,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-01",
+   "kcal": 1900,
+   "protein_g": 131.9,
+   "carbs_g": 171.8,
+   "fat_g": 74.9,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-02",
+   "kcal": 1479,
+   "protein_g": 160.5,
+   "carbs_g": 137.5,
+   "fat_g": 29.4,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-03",
+   "kcal": 1125,
+   "protein_g": 102.6,
+   "carbs_g": 77.7,
+   "fat_g": 46.1,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-04",
+   "kcal": 1489,
+   "protein_g": 126.8,
+   "carbs_g": 133.0,
+   "fat_g": 48.2,
+   "complete": false,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-05",
+   "kcal": 1302,
+   "protein_g": 121.3,
+   "carbs_g": 92.7,
+   "fat_g": 48.0,
+   "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-06",
+   "kcal": 441,
+   "protein_g": 59.0,
+   "carbs_g": 35.0,
+   "fat_g": 6.8,
+   "complete": false,
+   "in_progress": true
+  }
+ ],
+ "weights": [
+  {
+   "date": "2026-10-16",
+   "measured_at": "2026-10-16T21:31:00+07:00",
+   "weight_kg": 72.5
+  },
+  {
+   "date": "2026-10-17",
+   "measured_at": "2026-10-17T07:00:00+07:00",
+   "weight_kg": 70.5
+  },
+  {
+   "date": "2026-10-22",
+   "measured_at": "2026-10-22T08:15:00+07:00",
+   "weight_kg": 70.8
+  },
+  {
+   "date": "2026-10-22",
+   "measured_at": "2026-10-22T20:33:00+07:00",
+   "weight_kg": 69.8
+  },
+  {
+   "date": "2026-10-26",
+   "measured_at": "2026-10-26T09:24:00+07:00",
+   "weight_kg": 69.9
+  },
+  {
+   "date": "2026-10-29",
+   "measured_at": "2026-10-29T23:47:00+07:00",
+   "weight_kg": 70.3
+  },
+  {
+   "date": "2026-10-31",
+   "measured_at": "2026-10-31T07:35:00+07:00",
+   "weight_kg": 70.0
+  },
+  {
+   "date": "2026-11-01",
+   "measured_at": "2026-11-01T09:16:00+07:00",
+   "weight_kg": 70.4
+  },
+  {
+   "date": "2026-11-01",
+   "measured_at": "2026-11-01T10:06:00+07:00",
+   "weight_kg": 70.2
+  }
+ ],
+ "plan": {
+  "start_date": "2026-10-16",
+  "start_weight_kg": 72.5,
+  "goal_weight_kg": 69
+ },
+ "averages": {
+  "last_7_complete": {
+   "days": 7,
+   "kcal": 1902.3,
+   "protein_g": 142.3,
+   "carbs_g": 159.7,
+   "fat_g": 75.8
+  },
+  "last_14_complete": {
+   "days": 14,
+   "kcal": 1963.4,
+   "protein_g": 148.2,
+   "carbs_g": 172.4,
+   "fat_g": 72.5
+  },
+  "since_plan_start": {
+   "days": 14,
+   "kcal": 1963.4,
+   "protein_g": 148.2,
+   "carbs_g": 172.4,
+   "fat_g": 72.5
+  }
+ }
+}
