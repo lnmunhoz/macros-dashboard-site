@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-06T16:06:06.404087+07:00",
- "generated_at_label": "Nov 6, 2026 16:06 (Bangkok, UTC+7)",
+ "generated_at": "2026-11-07T00:04:31.020307+07:00",
+ "generated_at_label": "Nov 7, 2026 00:04 (Bangkok, UTC+7)",
  "targets": {
   "kcal": 1500.0,
   "protein_g": 120.0,
@@ -351,12 +351,12 @@
   },
   {
    "date": "2026-11-06",
-   "kcal": 441,
-   "protein_g": 59.0,
-   "carbs_g": 35.0,
-   "fat_g": 6.8,
-   "complete": false,
-   "in_progress": true
+   "kcal": 1530,
+   "protein_g": 133.3,
+   "carbs_g": 127.1,
+   "fat_g": 55.2,
+   "complete": true,
+   "in_progress": false
   }
  ],
  "weights": [
@@ -414,24 +414,24 @@
  "averages": {
   "last_7_complete": {
    "days": 7,
-   "kcal": 1902.3,
-   "protein_g": 142.3,
-   "carbs_g": 159.7,
-   "fat_g": 75.8
+   "kcal": 1868.6,
+   "protein_g": 141.3,
+   "carbs_g": 152.3,
+   "fat_g": 76.1
   },
   "last_14_complete": {
    "days": 14,
-   "kcal": 1963.4,
-   "protein_g": 148.2,
-   "carbs_g": 172.4,
-   "fat_g": 72.5
+   "kcal": 1940.6,
+   "protein_g": 145.5,
+   "carbs_g": 167.5,
+   "fat_g": 73.7
   },
   "since_plan_start": {
-   "days": 14,
-   "kcal": 1963.4,
-   "protein_g": 148.2,
-   "carbs_g": 172.4,
-   "fat_g": 72.5
+   "days": 15,
+   "kcal": 1934.5,
+   "protein_g": 147.2,
+   "carbs_g": 169.4,
+   "fat_g": 71.4
   }
  }
 }
