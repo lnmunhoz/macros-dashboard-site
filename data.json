@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-07T00:04:31.020307+07:00",
- "generated_at_label": "Nov 7, 2026 00:04 (Bangkok, UTC+7)",
+ "generated_at": "2026-11-08T00:06:18.353389+07:00",
+ "generated_at_label": "Nov 8, 2026 00:06 (Bangkok, UTC+7)",
  "targets": {
   "kcal": 1500.0,
   "protein_g": 120.0,
@@ -356,6 +356,15 @@
    "carbs_g": 127.1,
    "fat_g": 55.2,
    "complete": true,
+   "in_progress": false
+  },
+  {
+   "date": "2026-11-07",
+   "kcal": 744,
+   "protein_g": 85.6,
+   "carbs_g": 52.5,
+   "fat_g": 19.6,
+   "complete": false,
    "in_progress": false
   }
  ],
