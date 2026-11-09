@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-08T00:06:18.353389+07:00",
- "generated_at_label": "Nov 8, 2026 00:06 (Bangkok, UTC+7)",
+ "generated_at": "2026-11-09T16:24:54.757117+07:00",
+ "generated_at_label": "Nov 9, 2026 16:24 (Bangkok, UTC+7)",
  "targets": {
-  "kcal": 1500.0,
+  "kcal": 1400.0,
   "protein_g": 120.0,
-  "carbs_g": 161.0,
-  "fat_g": 42.0,
+  "carbs_g": 143.0,
+  "fat_g": 39.0,
   "protein_is_floor": true
  },
  "target_history": [
@@ -39,6 +39,14 @@
    "protein_g": 120.0,
    "carbs_g": 161.0,
    "fat_g": 42.0,
+   "notes": "step-down"
+  },
+  {
+   "effective_from": "2026-11-09",
+   "kcal": 1400.0,
+   "protein_g": 120.0,
+   "carbs_g": 143.0,
+   "fat_g": 39.0,
    "notes": "step-down"
   }
  ],
@@ -413,6 +421,16 @@
    "date": "2026-11-01",
    "measured_at": "2026-11-01T10:06:00+07:00",
    "weight_kg": 70.2
+  },
+  {
+   "date": "2026-11-03",
+   "measured_at": "2026-11-03T08:59:00+07:00",
+   "weight_kg": 70.3
+  },
+  {
+   "date": "2026-11-06",
+   "measured_at": "2026-11-06T09:20:00+07:00",
+   "weight_kg": 69.2
   }
  ],
  "plan": {
